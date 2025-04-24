@@ -117,5 +117,5 @@ install.packages(c("ggplot2", "dplyr", "tidyr", "vegan", "knitr", "readr"))
 
 Please use the following DOI to cite this data and associated functions/analyses.  
 
-[![DOI](https://zenodo.org/badge/15278267.svg)](https://doi.org/10.5281/zenodo.15278267)
+(https://zenodo.org/badge/924392893.svg)
 
