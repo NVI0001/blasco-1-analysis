@@ -4,7 +4,7 @@ This repository contains the data, scripts, and analysis results for the manuscr
 
 ### **The Global Spread and Clinical Relevance of the Underreported blaSCO-1 Resistance Gene**
 
----
+
 
 ## Description
 
@@ -14,7 +14,7 @@ This project analyzes the temporal, host, and geographic distribution of the **b
 
 > **Note:** Many isolates analyzed in this project have not been described in the literature. This analysis offers a first look into the global and cross-host spread of blaSCO-1 based on public metadata.
 
----
+
 
 ## Research Questions
 
@@ -22,7 +22,7 @@ This project analyzes the temporal, host, and geographic distribution of the **b
 - How does its temporal distribution inform its clinical relevance?
 - What host–species combinations are associated with earlier or more recent detection?
 
----
+
 
 ## Dataset Overview
 
@@ -41,11 +41,9 @@ This project analyzes the temporal, host, and geographic distribution of the **b
 
 This metadata was downloaded in CSV format.
 
----
-  
 
 
-## File Tree
+## File Structure
 Here is the file tree structure of the repository:
 
 
@@ -56,7 +54,7 @@ To run the full analysis, open `Blasco-1-Analysis.Rmd` in **RStudio** and knit i
 ## Installation and Setup
 
 1. Clone the repository:  
-   `git clone <repository-url>`
+   `git clone <https://github.com/NVI0001/blasco-1-analysis>`
    
 2. Install necessary R packages (if not already installed):
 To run the analysis, the following R packages are required:
@@ -71,9 +69,10 @@ You can install these packages by running the following in R:
 ```r
 install.packages(c("ggplot2", "dplyr", "tidyr", "vegan", "knitr", "readr"))
 
-
+```
 
 
 ## Citation
+
 Please use the following DOI to cite this data and associated functions/analyses.  
 **DOI:** [Your DOI Here]
