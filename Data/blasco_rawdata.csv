@@ -1,0 +1,769 @@
+﻿Scientific_name,Isolation _type,Location,Isolation_source,Host,Collection_date,Isolate,Strand,Element_symbol,Type,Method
+Klebsiella pneumoniae,clinical,Argentina,cerebrospinal fluid,human,1980,PDT000011670.2,-,blaSCO-1,AMR,ALLELEP
+Salmonella Wien,clinical,France,human,human,1988,PDT000002821.3,+,blaSCO-1,AMR,ALLELEP
+Salmonella Wien,clinical,France,human,human,1988,PDT000002821.3,+,blaSCO-1,AMR,ALLELEP
+Escherichia coli,clinical,,,,1988,PDT000570875.1,-,blaSCO-1,AMR,ALLELEP
+Escherichia coli,clinical,,,,1988,PDT000570876.1,-,blaSCO-1,AMR,ALLELEP
+Salmonella Wien,clinical,France,,human,1988,PDT001024780.1,-,blaSCO-1,AMR,ALLELEX
+Salmonella enterica,clinical,USA,,horses,1989,PDT001856916.1,+,blaSCO-1,AMR,ALLELEP
+Salmonella enterica,clinical,USA,,horses,1989,PDT001856916.1,+,blaSCO-1,AMR,ALLELEP
+Salmonella enterica,clinical,USA,,horses,1991,PDT001877899.1,+,blaSCO-1,AMR,ALLELEP
+Salmonella enterica,clinical,USA,,horses,1991,PDT001877899.1,+,blaSCO-1,AMR,ALLELEP
+Pseudomonas aeruginosa,,USA,burn,,1992,PDT000096450.1,-,blaSCO-1,AMR,ALLELEP
+Salmonella enterica,clinical,USA,,horses,1995,PDT001877967.1,+,blaSCO-1,AMR,ALLELEP
+Salmonella enterica,clinical,USA,,horses,1995,PDT001877967.1,+,blaSCO-1,AMR,ALLELEP
+Salmonella enterica,clinical,USA,,horses,1995,PDT001877968.1,+,blaSCO-1,AMR,ALLELEP
+Salmonella enterica,clinical,USA,,horses,1995,PDT001877968.1,+,blaSCO-1,AMR,ALLELEP
+Salmonella enterica,clinical,USA,,horses,1998,PDT001877905.1,+,blaSCO-1,AMR,ALLELEP
+Salmonella enterica,clinical,USA,,horses,1998,PDT001877905.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Mexico,,human,2000,PDT001012069.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,UK,blood,human,2002,PDT000131609.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella oxytoca,clinical,UK,blood,human,2003,PDT000132998.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Laos,sterile,human,2003,PDT000437233.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Laos,sterile,human,2003,PDT000437233.1,+,blaSCO-1,AMR,ALLELEP
+Salmonella  Concord,clinical,Austria,Ethiopian adoptees,human,2004,PDT000047432.4,+,blaSCO-1,AMR,ALLELEP
+Salmonella  Concord,clinical,Austria,Ethiopian adoptees,human,2004,PDT000047432.4,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Spain,blood,human,2005,PDT001961091.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Spain,blood,human,2005,PDT001961091.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Spain,blood,human,2005,PDT001961174.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Spain,blood,human,2005,PDT001961174.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Spain,rectal,human,2005,PDT001961128.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Spain,rectal,human,2005,PDT001961128.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Spain,throat,human,2005,PDT001967044.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Spain,throat,human,2005,PDT001967044.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Spain,urine,human,2005,PDT000724095.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Spain,urine,human,2005,PDT000724095.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Spain,urine,human,2005,PDT001085927.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Spain,urine,human,2005,PDT001917821.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Spain,urine,human,2005,PDT001917821.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Colombia,,human,2005,PDT000276046.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella quasipneumoniae,clinical,Colombia,,human,2005,PDT000276060.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Spain,bile,human,2006,PDT001961124.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Spain,bile,human,2006,PDT001961124.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Spain,blood,human,2006,PDT001961100.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Spain,blood,human,2006,PDT001961100.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Spain,blood,human,2006,PDT001961177.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Spain,blood,human,2006,PDT001961177.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Spain,catheter,human,2006,PDT001961093.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Spain,catheter,human,2006,PDT001961093.1,+,blaSCO-1,AMR,ALLELEP
+Salmonella  Concord,clinical,Ireland,Ethiopian adoptees,human,2006,PDT000197459.1,-,blaSCO-1,AMR,ALLELEP
+Salmonella  Concord,clinical,Denmark,Ethiopian adoptees,human,2006,PDT000197460.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Spain,sputum,human,2006,PDT001917822.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Spain,sputum,human,2006,PDT001917822.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Spain,throat,human,2006,PDT001917823.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Spain,throat,human,2006,PDT001917823.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Spain,urine,human,2006,PDT001961092.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Spain,urine,human,2006,PDT001961092.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Spain,urine,human,2006,PDT001961099.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Spain,urine,human,2006,PDT001961099.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Colombia,,human,2006,PDT000276063.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Colombia,,human,2006,PDT000276064.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Brazil,,human,2006,PDT000326543.1,+,blaSCO-1,AMR,ALLELEP
+Salmonella  Concord,clinical,USA,Ethiopian adoptees,human,2007,PDT000047429.4,+,blaSCO-1,AMR,ALLELEP
+Salmonella  Concord,clinical,USA,Ethiopian adoptees,human,2007,PDT000047429.4,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Spain,rectal,human,2007,PDT001917824.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Spain,rectal,human,2007,PDT001917824.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Spain,urine,human,2007,PDT001961094.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Spain,urine,human,2007,PDT001961094.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella quasipneumoniae,clinical,Bangladesh,,human,2007,PDT001557857.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella quasipneumoniae,clinical,Bangladesh,,human,2007,PDT001557857.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella quasipneumoniae,clinical,Bangladesh,,human,2007,PDT001558286.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella quasipneumoniae,clinical,Bangladesh,,human,2007,PDT001558286.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Portugal,hospital patient,human,2008,PDT000764776.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella quasipneumoniae,clinical,Nigeria,blood,human,2010,PDT000217813.1,+,blaSCO-1,AMR,ALLELEP
+Pseudomonas aeruginosa,clinical,Switzerland,hospital,human,2010,PDT000411528.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Portugal,urine,human,2010,PDT000797568.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,South Africa,,human,2010,PDT002235067.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,South Africa,,human,2010,PDT002235068.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,South Africa,,human,2010,PDT002235069.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,South Africa,,human,2010,PDT002235072.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Nigeria,blood,human,2011,PDT000217807.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Norway,blood,human,2011,PDT001092033.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Norway,blood,human,2011,PDT001092033.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Germany,blood,human,2011,PDT001286510.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Germany,blood,human,2011,PDT001286510.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Norway,blood,human,2011,PDT002369893.2,+,blaSCO-1,AMR,ALLELEX
+Klebsiella pneumoniae,clinical,Tunisia,blood,human,2011,PDT002391510.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Tunisia,blood,human,2011,PDT002391510.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Brazil,cerebrospinal fluid,human,2011,PDT000352590.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,UK,clinical material,human,2011,PDT000715323.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,UK,clinical material,human,2011,PDT000715323.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Tanzania,feces,human,2011,PDT000706539.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Germany,inguinal skin,human,2011,PDT000432638.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Germany,inguinal skin,human,2011,PDT000432638.1,+,blaSCO-1,AMR,ALLELEP
+Escherichia coli,clinical,,,,2011,PDT000433402.1,+,blaSCO-1,AMR,ALLELEP
+Escherichia coli,clinical,,,,2011,PDT000433402.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Spain,,human,2011,PDT000434768.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Spain,,human,2011,PDT000434768.1,+,blaSCO-1,AMR,ALLELEP
+Pseudomonas aeruginosa,clinical,Russia,,human,2011,PDT002554407.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,UK,blood,human,2012,PDT000136259.2,-,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,UK,blood,human,2012,PDT000136259.2,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,UK,blood,human,2012,PDT000136260.2,-,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,UK,blood,human,2012,PDT000136260.2,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Tunisia,blood,human,2012,PDT002391504.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Tunisia,blood,human,2012,PDT002391504.1,+,blaSCO-1,AMR,ALLELEP
+Escherichia coli,clinical,Estonia,clinical material,human,2012,PDT000521057.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Norway,clinical material,human,2012,PDT000543364.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Netherlands,perineum,human,2012,PDT000121609.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Spain,surveillance,human,2012,PDT001090261.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Spain,surveillance ,human,2012,PDT001090261.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,USA,urine,human,2012,PDT000875458.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,USA,urine,human,2012,PDT000875458.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,South Africa,,human,2012,PDT000434779.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,South Africa,,human,2012,PDT000434779.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Thailand,,human,2012,PDT000434784.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Thailand,,human,2012,PDT000434784.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Germany,,human,2012,PDT000441691.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Germany,,human,2012,PDT000441691.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Spain,,human,2012,PDT000604093.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Nigeria,blood,human,2013,PDT000217847.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Nigeria,blood,human,2013,PDT000217875.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Serbia,blood,human,2013,PDT000370398.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Serbia,blood,human,2013,PDT000370399.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Serbia,blood,human,2013,PDT000370412.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Serbia,blood,human,2013,PDT000370439.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Tunisia,blood,human,2013,PDT002391496.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Tunisia,blood,human,2013,PDT002391496.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,UK,clinical material,human,2013,PDT000715241.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,UK,clinical material,human,2013,PDT000715241.1,+,blaSCO-1,AMR,ALLELEP
+Salmonella  Concord,clinical,Ethiopia,feces,human,2013,PDT000503462.1,+,blaSCO-1,AMR,ALLELEP
+Salmonella  Concord,clinical,Ethiopia,feces,human,2013,PDT000503462.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Switzerland,feces,human,2013,PDT001277609.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Switzerland,feces,human,2013,PDT001277610.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Switzerland,feces,human,2013,PDT001277611.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Switzerland,feces,human,2013,PDT001277612.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Switzerland,feces,human,2013,PDT001277613.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Switzerland,hospital,human,2013,PDT000411398.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Switzerland,hospital,human,2013,PDT000411420.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Switzerland,hospital,human,2013,PDT000411429.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Greece,lower respiratory tract,human,2013,PDT000369898.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Slovenia,lower respiratory tract,human,2013,PDT000370151.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Turkey,lower respiratory tract,human,2013,PDT000370728.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,South Africa,pus ,human,2013,PDT000088812.2,-,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,South Africa,pus ,human,2013,PDT000088833.2,-,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Spain,surveillance,human,2013,PDT002651311.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Spain,surveillance,human,2013,PDT002651311.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Ireland,swab,human,2013,PDT000370470.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,South Africa,urine,human,2013,PDT000088814.2,-,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,South Africa,urine,human,2013,PDT000088823.2,-,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,South Africa,urine,human,2013,PDT000088827.2,-,blaSCO-1,AMR,ALLELEP
+Providencia rettgeri,clinical,South Africa,urine,human,2013,PDT000248909.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,South Africa,urine,human,2013,PDT000252021.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Slovenia,urine,human,2013,PDT000370139.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Ireland,urine,human,2013,PDT000370472.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Germany,urine,human,2013,PDT000441697.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Germany,urine,human,2013,PDT000441697.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Norway,urine,human,2013,PDT000537581.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Norway,urine,human,2013,PDT000537581.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Romania,wound,human,2013,PDT000370258.1,+,blaSCO-1,AMR,ALLELEP
+Proteus mirabilis,clinical,South Africa,,human,2013,PDT000248910.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,France,,dog,2013,PDT000992755.1,+,blaSCO-1,AMR,ALLELEX
+Klebsiella pneumoniae,environmental,Switzerland,,,2013,PDT001137019.1,-,blaSCO-1,AMR,ALLELEX
+Klebsiella pneumoniae,clinical,Switzerland,,human,2013,PDT001137084.1,-,blaSCO-1,AMR,ALLELEX
+Klebsiella pneumoniae,clinical,Switzerland,,human,2013,PDT001137097.1,-,blaSCO-1,AMR,ALLELEX
+Klebsiella pneumoniae,clinical,Switzerland,,human,2013,PDT001137102.1,-,blaSCO-1,AMR,ALLELEX
+Klebsiella pneumoniae,clinical,Nigeria,blood,human,2014,PDT000217837.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Nigeria,blood,human,2014,PDT000217879.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Serbia,blood,human,2014,PDT000370433.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Serbia,blood,human,2014,PDT000370456.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Turkey,blood,human,2014,PDT000370574.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Turkey,blood,human,2014,PDT000370684.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Norway,blood,human,2014,PDT001092067.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Norway,blood,human,2014,PDT001092067.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Switzerland,hospital,human,2014,PDT000411387.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Serbia,lower respiratory tract,human,2014,PDT000370421.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Serbia,lower respiratory tract,human,2014,PDT000370448.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Serbia,lower respiratory tract,human,2014,PDT000370449.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Serbia,lower respiratory tract,human,2014,PDT000370450.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Turkey,lower respiratory tract,human,2014,PDT000370639.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Spain,urine,human,2014,PDT000369813.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Spain,urine,human,2014,PDT000369819.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,UK,urine,human,2014,PDT000370228.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,UK,urine,human,2014,PDT000370233.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Romania,urine,human,2014,PDT000370261.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Serbia,urine,human,2014,PDT000370390.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Serbia,urine,human,2014,PDT000370391.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Serbia,urine,human,2014,PDT000370392.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Serbia,urine,human,2014,PDT000370423.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Serbia,urine,human,2014,PDT000370441.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Serbia,urine,human,2014,PDT000370447.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Serbia,urine,human,2014,PDT000370462.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Serbia,urine,human,2014,PDT000370466.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Turkey,urine,human,2014,PDT000370717.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Serbia,urine,human,2014,PDT000663180.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Serbia,wound,human,2014,PDT000370397.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Serbia,wound,human,2014,PDT000370411.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Serbia,wound,human,2014,PDT000370437.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Serbia,wound,human,2014,PDT000370458.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Canada,wound,human,2014,PDT000631361.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Canada,wound,human,2014,PDT000631361.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Canada,wound,human,2014,PDT002412006.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Canada,wound,human,2014,PDT002412006.1,+,blaSCO-1,AMR,ALLELEP
+Enterobacter hormaechei,clinical,Colombia,,,2014,PDT000061770.2,-,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Canada,,human,2014,PDT000445958.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Canada,,human,2014,PDT000445958.1,+,blaSCO-1,AMR,ALLELEP
+Escherichia coli,,USA,,pig,2014,PDT000729445.1,+,blaSCO-1,AMR,ALLELEX
+Escherichia coli,,USA,,pig,2014,PDT000968073.1,+,blaSCO-1,AMR,ALLELEP
+Escherichia coli,,USA,,pig,2014,PDT000968073.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,environmental,Switzerland,,,2014,PDT001137010.1,-,blaSCO-1,AMR,ALLELEX
+Klebsiella pneumoniae,clinical,UK,,human,2014,PDT001244425.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,UK,,human,2014,PDT001244425.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,UK,,human,2014,PDT001244532.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,UK,,human,2014,PDT001244532.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,UK,,human,2014,PDT001244619.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,UK,,human,2014,PDT001244619.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,UK,,human,2014,PDT001244793.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,UK,,human,2014,PDT001244793.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,UK,,human,2014,PDT001244864.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,UK,,human,2014,PDT001244864.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Nigeria,blood,human,2015,PDT000217831.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,environmental,Nigeria,feces,chicken,2015,PDT002609753.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,environmental,Nigeria,feces,chicken,2015,PDT002609753.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,environmental,Nigeria,feces,chicken,2015,PDT002609754.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,environmental,Nigeria,feces,chicken,2015,PDT002609754.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,environmental,Nigeria,feces,chicken,2015,PDT002609755.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,environmental,Nigeria,feces,chicken,2015,PDT002609755.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,environmental,Nigeria,feces,chicken,2015,PDT002609756.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,environmental,Nigeria,feces,chicken,2015,PDT002609756.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Spain,gut,human,2015,PDT000849187.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Spain,gut,human,2015,PDT000849187.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Spain,gut,human,2015,PDT000849188.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Spain,gut,human,2015,PDT000849188.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Spain,gut,human,2015,PDT000849197.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Spain,gut,human,2015,PDT000849197.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Spain,gut,human,2015,PDT000849199.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Spain,gut,human,2015,PDT000849199.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Spain,gut,human,2015,PDT000849228.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Spain,gut,human,2015,PDT000849228.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Spain,gut,human,2015,PDT000849229.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Spain,gut,human,2015,PDT000849229.1,+,blaSCO-1,AMR,ALLELEP
+Pseudomonas aeruginosa,clinical,Cote d'Ivoire,hospital,human,2015,PDT000395991.1,-,blaSCO-1,AMR,ALLELEP
+Pseudomonas aeruginosa,clinical,Cote d'Ivoire,hospital,human,2015,PDT000395996.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Spain,human,human,2015,PDT000535641.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Nigeria,urine,human,2015,PDT000668969.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,France,,dog,2015,PDT000992728.1,+,blaSCO-1,AMR,ALLELEX
+Klebsiella pneumoniae,clinical,UK,,human,2015,PDT001243322.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,UK,,human,2015,PDT001243322.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,UK,,human,2015,PDT001244228.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,UK,,human,2015,PDT001244228.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,UK,,human,2015,PDT001244512.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,UK,,human,2015,PDT001244512.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,UK,,human,2015,PDT001245101.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,UK,,human,2015,PDT001245101.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,South Korea,blood,human,2016,PDT000730564.1,+,blaSCO-1,AMR,ALLELEX
+Enterobacter hormaechei,clinical,Argentina,blood,human,2016,PDT002389252.1,-,blaSCO-1,AMR,ALLELEX
+"Salmonella 4,[5],12:i:-",environmental,USA,feces,pig,2016,PDT000198361.2,+,blaSCO-1,AMR,ALLELEP
+"Salmonella 4,[5],12:i:-",environmental,USA,feces,pig,2016,PDT000198361.2,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Cameroon,hand,human,2016,PDT000358776.2,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Cameroon,hand,human,2016,PDT000384349.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Ireland,human,human,2016,PDT000442224.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Ireland,human,human,2016,PDT000442224.1,+,blaSCO-1,AMR,ALLELEP
+Morganella morganii,clinical,USA,lung,human,2016,PDT000686030.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,Cameroon,nares,pig,2016,PDT000288731.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,Cameroon,nares,pig,2016,PDT000288732.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Malawi,pus ,human,2016,PDT001124942.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Uganda,pus ,human,2016,PDT001971249.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Spain,rectal,human,2016,PDT001961096.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Spain,rectal,human,2016,PDT001961096.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,USA,surveillance,human,2016,PDT000852587.1,+,blaSCO-1,AMR,ALLELEX
+Klebsiella pneumoniae,clinical,Uganda,urine,human,2016,PDT001971259.1,-,blaSCO-1,AMR,ALLELEP
+Enterobacter hormaechei,clinical,Argentina,urine,human,2016,PDT002389278.1,-,blaSCO-1,AMR,ALLELEX
+Klebsiella pneumoniae,clinical,South Korea,blood,human,2017,PDT000730620.1,+,blaSCO-1,AMR,ALLELEX
+Klebsiella pneumoniae,clinical,South Africa,clinical material,human,2017,PDT001197661.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,South Africa,clinical material,human,2017,PDT001197661.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,South Africa,clinical material,human,2017,PDT001197666.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,South Africa,clinical material,human,2017,PDT001197666.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,South Africa,clinical material,human,2017,PDT001197667.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,South Africa,clinical material,human,2017,PDT001197667.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,South Africa,clinical material,human,2017,PDT001197674.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,South Africa,clinical material,human,2017,PDT001197674.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,South Africa,clinical material,human,2017,PDT001197675.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,South Africa,clinical material,human,2017,PDT001197675.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,South Africa,clinical material,human,2017,PDT001197678.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,South Africa,clinical material,human,2017,PDT001197678.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,South Africa,clinical material,human,2017,PDT001197679.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,South Africa,clinical material,human,2017,PDT001197679.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,South Africa,clinical material,human,2017,PDT001197681.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,South Africa,clinical material,human,2017,PDT001197681.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,South Africa,clinical material,human,2017,PDT001197683.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,South Africa,clinical material,human,2017,PDT001197683.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,South Africa,clinical material,human,2017,PDT001197685.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,South Africa,clinical material,human,2017,PDT001197685.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,South Africa,clinical material,human,2017,PDT001197687.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,South Africa,clinical material,human,2017,PDT001197687.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,South Africa,clinical material,human,2017,PDT001197693.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,South Africa,clinical material,human,2017,PDT001197693.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,environmental,South Africa,irrigation water,,2017,PDT001225211.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Nigeria,nasal,human,2017,PDT001442801.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Gambia,PA,human,2017,PDT001776309.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Gambia,PA,human,2017,PDT001776309.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Gambia,PA,human,2017,PDT001776329.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Gambia,PA,human,2017,PDT001776329.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Gambia,PA,human,2017,PDT001776331.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Gambia,PA,human,2017,PDT001776331.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Gambia,PA,human,2017,PDT001776333.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Gambia,PA,human,2017,PDT001776333.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,South Africa,rectal,human,2017,PDT000468099.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Kenya,skin soft tissue,human,2017,PDT001410798.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Brazil,urine,human,2017,PDT001388504.1,-,blaSCO-1,AMR,ALLELEX
+Klebsiella pneumoniae,environmental,South Africa,water,,2017,PDT001065610.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,USA,wound,human,2017,PDT000903652.1,+,blaSCO-1,AMR,ALLELEX
+Klebsiella quasipneumoniae,clinical,Nigeria,wound,human,2017,PDT001442786.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Kenya,wound,human,2017,PDT002127276.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,France,,dog,2017,PDT001426530.1,-,blaSCO-1,AMR,ALLELEP
+Morganella morganii,clinical,Germany,,human,2017,PDT002154578.1,-,blaSCO-1,AMR,ALLELEX
+Klebsiella pneumoniae,clinical,Norway,blood,human,2018,PDT001903089.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Norway,blood,human,2018,PDT001903089.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,South Africa,blood,human,2018,PDT002133978.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,South Africa,blood,human,2018,PDT002133978.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,South Africa,blood,human,2018,PDT002134077.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,South Africa,blood,human,2018,PDT002134077.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,South Africa,blood,human,2018,PDT002134161.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,South Africa,blood,human,2018,PDT002134161.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,South Africa,blood,human,2018,PDT002690569.1,-,blaSCO-1,AMR,ALLELEX
+Klebsiella pneumoniae,clinical,South Africa,blood,human,2018,PDT002690614.1,+,blaSCO-1,AMR,ALLELEX
+Klebsiella pneumoniae,clinical,South Africa,blood,human,2018,PDT002690644.1,+,blaSCO-1,AMR,ALLELEX
+Klebsiella pneumoniae,clinical,South Africa,blood,human,2018,PDT002690659.1,-,blaSCO-1,AMR,ALLELEX
+Enterobacter hormaechei,clinical,Argentina,cerebrospinal fluid,human,2018,PDT002389223.1,-,blaSCO-1,AMR,ALLELEX
+Klebsiella pneumoniae,clinical,South Africa,clinical material,human,2018,PDT001197706.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,South Africa,clinical material,human,2018,PDT001197706.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,environmental,,environment,,2018,PDT001256957.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,agricultural,South Africa,fresh produce,,2018,PDT001065608.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Germany,hospital,human,2018,PDT001219141.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Germany,hospital,human,2018,PDT001219141.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Spain,hospital ,human,2018,PDT001185218.2,-,blaSCO-1,AMR,ALLELEX
+Klebsiella pneumoniae,clinical,Spain,hospital ,human,2018,PDT001185219.2,-,blaSCO-1,AMR,ALLELEX
+Klebsiella pneumoniae,clinical,France,rectal,human,2018,PDT000665243.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Kenya,skin soft tissue,human,2018,PDT001410783.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Kenya,skin soft tissue,human,2018,PDT001410800.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,South Africa,swab,human,2018,PDT000595122.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Iran,tracheal,human,2018,PDT001101048.1,-,blaSCO-1,AMR,ALLELEP
+Pseudomonas aeruginosa,clinical,Nigeria,urine,human,2018,PDT000990592.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Senegal,urine,human,2018,PDT001816639.1,-,blaSCO-1,AMR,ALLELEP
+Enterobacter hormaechei,clinical,Argentina,urine,human,2018,PDT002389225.1,+,blaSCO-1,AMR,ALLELEX
+Klebsiella pneumoniae,clinical,Kenya,wound,human,2018,PDT002127259.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Kenya,wound,human,2018,PDT002127269.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Kenya,wound,human,2018,PDT002127277.1,+,blaSCO-1,AMR,ALLELEP
+Pseudomonas aeruginosa,clinical,Ghana,wound,human,2018,PDT002189267.1,-,blaSCO-1,AMR,ALLELEP
+Proteus mirabilis,clinical,Denmark,,human,2018,PDT001013633.1,+,blaSCO-1,AMR,ALLELEP
+Proteus mirabilis,clinical,Denmark,,human,2018,PDT001013633.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Brazil,blood,human,2019,PDT000914464.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Ethiopia,blood,human,2019,PDT001370353.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Ethiopia,blood,human,2019,PDT001370353.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Ethiopia,blood,human,2019,PDT001370439.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Ethiopia,blood,human,2019,PDT001370439.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella variicola,clinical,Ethiopia,blood,human,2019,PDT001370445.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella variicola,clinical,Ethiopia,blood,human,2019,PDT001370445.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella variicola,clinical,Ethiopia,blood,human,2019,PDT001370446.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella variicola,clinical,Ethiopia,blood,human,2019,PDT001370446.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella variicola,clinical,Ethiopia,blood,human,2019,PDT001370449.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella variicola,clinical,Ethiopia,blood,human,2019,PDT001370449.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella variicola,clinical,Ethiopia,blood,human,2019,PDT001370450.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella variicola,clinical,Ethiopia,blood,human,2019,PDT001370450.1,-,blaSCO-1,AMR,ALLELEP
+Enterobacter hormaechei,clinical,Ethiopia,blood,human,2019,PDT001370451.1,+,blaSCO-1,AMR,ALLELEP
+Enterobacter hormaechei,clinical,Ethiopia,blood,human,2019,PDT001370451.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella variicola,clinical,Ethiopia,blood,human,2019,PDT001370456.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella variicola,clinical,Ethiopia,blood,human,2019,PDT001370456.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella variicola,clinical,Ethiopia,blood,human,2019,PDT001370458.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella variicola,clinical,Ethiopia,blood,human,2019,PDT001370458.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella variicola,clinical,Ethiopia,blood,human,2019,PDT001370462.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella variicola,clinical,Ethiopia,blood,human,2019,PDT001370462.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella variicola,clinical,Ethiopia,blood,human,2019,PDT001370463.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella variicola,clinical,Ethiopia,blood,human,2019,PDT001370463.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella variicola,clinical,Ethiopia,blood,human,2019,PDT001370466.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella variicola,clinical,Ethiopia,blood,human,2019,PDT001370466.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella variicola,clinical,Ethiopia,blood,human,2019,PDT001370474.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella variicola,clinical,Ethiopia,blood,human,2019,PDT001370474.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella variicola,clinical,Ethiopia,blood,human,2019,PDT001370485.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella variicola,clinical,Ethiopia,blood,human,2019,PDT001370485.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella variicola,clinical,Ethiopia,blood,human,2019,PDT001370487.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella variicola,clinical,Ethiopia,blood,human,2019,PDT001370487.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella variicola,clinical,Ethiopia,blood,human,2019,PDT001370489.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella variicola,clinical,Ethiopia,blood,human,2019,PDT001370489.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella variicola,clinical,Ethiopia,blood,human,2019,PDT001370490.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella variicola,clinical,Ethiopia,blood,human,2019,PDT001370490.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella variicola,clinical,Ethiopia,blood,human,2019,PDT001370491.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella variicola,clinical,Ethiopia,blood,human,2019,PDT001370491.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella variicola,clinical,Ethiopia,blood,human,2019,PDT001370495.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella variicola,clinical,Ethiopia,blood,human,2019,PDT001370495.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella variicola,clinical,Ethiopia,blood,human,2019,PDT001370498.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella variicola,clinical,Ethiopia,blood,human,2019,PDT001370498.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella variicola,clinical,Ethiopia,blood,human,2019,PDT001370500.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella variicola,clinical,Ethiopia,blood,human,2019,PDT001370500.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Ethiopia,blood,human,2019,PDT001370520.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Ethiopia,blood,human,2019,PDT001370520.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Ethiopia,blood,human,2019,PDT001370525.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Ethiopia,blood,human,2019,PDT001370525.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Ethiopia,blood,human,2019,PDT001370526.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Ethiopia,blood,human,2019,PDT001370526.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Ethiopia,blood,human,2019,PDT001370527.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Ethiopia,blood,human,2019,PDT001370527.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Ethiopia,blood,human,2019,PDT001370528.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Ethiopia,blood,human,2019,PDT001370528.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,South Africa,blood,human,2019,PDT002133989.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,South Africa,blood,human,2019,PDT002133989.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,South Africa,blood,human,2019,PDT002134000.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,South Africa,blood,human,2019,PDT002134000.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,South Africa,blood,human,2019,PDT002134083.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,South Africa,blood,human,2019,PDT002134083.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,South Africa,blood,human,2019,PDT002134094.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,South Africa,blood,human,2019,PDT002134094.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,South Africa,blood,human,2019,PDT002134105.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,South Africa,blood,human,2019,PDT002134105.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,South Africa,blood,human,2019,PDT002134138.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,South Africa,blood,human,2019,PDT002134138.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,South Africa,blood,human,2019,PDT002134235.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,South Africa,blood,human,2019,PDT002134235.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,South Africa,blood,human,2019,PDT002134279.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,South Africa,blood,human,2019,PDT002134279.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,South Africa,blood,human,2019,PDT002134280.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,South Africa,blood,human,2019,PDT002134280.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Russia,blood,human,2019,PDT002302088.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,South Africa,blood,human,2019,PDT002690556.1,-,blaSCO-1,AMR,ALLELEX
+Klebsiella pneumoniae,clinical,South Africa,blood,human,2019,PDT002690557.1,-,blaSCO-1,AMR,ALLELEX
+Klebsiella pneumoniae,clinical,South Africa,blood,human,2019,PDT002690564.1,-,blaSCO-1,AMR,ALLELEX
+Klebsiella pneumoniae,clinical,South Africa,blood,human,2019,PDT002690623.1,+,blaSCO-1,AMR,ALLELEX
+Klebsiella pneumoniae,clinical,South Africa,blood,human,2019,PDT002690636.1,+,blaSCO-1,AMR,ALLELEX
+Klebsiella pneumoniae,clinical,South Africa,blood,human,2019,PDT002690639.1,+,blaSCO-1,AMR,ALLELEX
+Klebsiella pneumoniae,clinical,South Africa,blood,human,2019,PDT002690641.1,+,blaSCO-1,AMR,ALLELEX
+Klebsiella pneumoniae,clinical,South Africa,blood,human,2019,PDT002690661.1,+,blaSCO-1,AMR,ALLELEX
+Klebsiella pneumoniae,clinical,South Africa,blood,human,2019,PDT002690662.1,+,blaSCO-1,AMR,ALLELEX
+Klebsiella pneumoniae,clinical,France,bronchial aspirate,human,2019,PDT002038633.1,+,blaSCO-1,AMR,ALLELEX
+Pseudomonas aeruginosa,clinical,Nigeria,catheter,human,2019,PDT001608837.1,-,blaSCO-1,AMR,ALLELEX
+Klebsiella pneumoniae,clinical,South Africa,clinical material,human,2019,PDT001864194.1,-,blaSCO-1,AMR,ALLELEX
+Klebsiella pneumoniae,clinical,South Africa,clinical material,human,2019,PDT001864323.1,+,blaSCO-1,AMR,ALLELEX
+Klebsiella pneumoniae,clinical,South Africa,clinical material,human,2019,PDT001864327.1,-,blaSCO-1,AMR,ALLELEX
+Klebsiella pneumoniae,clinical,South Africa,clinical material,human,2019,PDT001864365.1,+,blaSCO-1,AMR,ALLELEX
+Klebsiella pneumoniae,clinical,South Africa,clinical material,human,2019,PDT001864419.1,-,blaSCO-1,AMR,ALLELEX
+Klebsiella pneumoniae,clinical,South Africa,clinical material,human,2019,PDT001864426.1,+,blaSCO-1,AMR,ALLELEX
+Klebsiella pneumoniae,clinical,South Africa,clinical material,human,2019,PDT001864430.1,+,blaSCO-1,AMR,ALLELEX
+Klebsiella pneumoniae,clinical,South Africa,clinical material,human,2019,PDT001864431.1,+,blaSCO-1,AMR,ALLELEX
+Klebsiella pneumoniae,clinical,South Africa,clinical material,human,2019,PDT001864443.1,-,blaSCO-1,AMR,ALLELEX
+Klebsiella pneumoniae,clinical,South Africa,clinical material,human,2019,PDT001864468.1,-,blaSCO-1,AMR,ALLELEX
+Klebsiella pneumoniae,clinical,South Africa,clinical material,human,2019,PDT001864486.1,+,blaSCO-1,AMR,ALLELEX
+Klebsiella pneumoniae,clinical,South Africa,clinical material,human,2019,PDT001865733.1,-,blaSCO-1,AMR,ALLELEX
+Enterobacter hormaechei,clinical,Spain,human,human,2019,PDT001373434.1,+,blaSCO-1,AMR,ALLELEP
+Enterobacter hormaechei,clinical,Spain,human,human,2019,PDT001373434.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella michiganensis,clinical,UK,urine,human,2019,PDT001211261.1,+,blaSCO-1,AMR,ALLELEP
+Pseudomonas aeruginosa,clinical,Nigeria,urine,human,2019,PDT001608845.1,+,blaSCO-1,AMR,ALLELEX
+Pseudomonas aeruginosa,clinical,Nigeria,urine,human,2019,PDT001608856.1,+,blaSCO-1,AMR,ALLELEX
+Klebsiella pneumoniae,clinical,Kenya,wound,human,2019,PDT002127243.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Kenya,,human,2019,PDT001250578.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Kenya,,human,2019,PDT001250578.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Kenya,,human,2019,PDT001250581.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Kenya,,human,2019,PDT001250581.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Kenya,,human,2019,PDT001250582.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Kenya,,human,2019,PDT001250582.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Kenya,,human,2019,PDT001250583.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Kenya,,human,2019,PDT001250583.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Kenya,,human,2019,PDT001250585.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Kenya,,human,2019,PDT001250585.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Kenya,,human,2019,PDT001250586.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Kenya,,human,2019,PDT001250586.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Kenya,,human,2019,PDT001250587.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Kenya,,human,2019,PDT001250587.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Kenya,,human,2019,PDT001250588.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Kenya,,human,2019,PDT001250588.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Kenya,,human,2019,PDT001250590.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Kenya,,human,2019,PDT001250590.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Kenya,,human,2019,PDT001250603.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Kenya,,human,2019,PDT001250603.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Kenya,,human,2019,PDT001250644.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Kenya,,human,2019,PDT001250644.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Argentina,,human,2019,PDT001435692.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Argentina,,human,2019,PDT001435696.1,-,blaSCO-1,AMR,ALLELEP
+Citrobacter freundii,clinical,Germany,,human,2019,PDT002431855.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Ghana, wound,human,2020,PDT001494306.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Ghana, wound,human,2020,PDT001494306.1,+,blaSCO-1,AMR,ALLELEP
+Proteus mirabilis,clinical,Nigeria, wound,human,2020,PDT001494812.1,+,blaSCO-1,AMR,ALLELEP
+Proteus mirabilis,clinical,Nigeria, wound,human,2020,PDT001494812.1,+,blaSCO-1,AMR,ALLELEP
+Proteus mirabilis,clinical,Switzerland,biopsy,human,2020,PDT001493530.1,+,blaSCO-1,AMR,ALLELEP
+Proteus mirabilis,clinical,Switzerland,biopsy,human,2020,PDT001493530.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,South Africa,clinical material,human,2020,PDT001865753.1,-,blaSCO-1,AMR,ALLELEX
+Klebsiella pneumoniae,clinical,Spain,human,human,2020,PDT001610660.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Spain,human,human,2020,PDT001610660.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Spain,human,human,2020,PDT001610668.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Spain,human,human,2020,PDT001610668.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Australia,rectal,human,2020,PDT001323621.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Australia,rectal,human,2020,PDT001323621.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Kenya,urinary tract,human,2020,PDT001410807.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Kenya,urine,human,2020,PDT002127227.1,+,blaSCO-1,AMR,ALLELEP
+Pseudomonas aeruginosa,clinical,Ghana,wound,human,2020,PDT001963720.1,+,blaSCO-1,AMR,ALLELEP
+Pseudomonas aeruginosa,clinical,Nigeria,burn,human,2021,PDT002427223.1,-,blaSCO-1,AMR,ALLELEX
+Klebsiella pneumoniae,clinical,Uganda,pus ,human,2021,PDT001971208.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Ghana,rectal,human,2021,PDT001292552.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Ghana,rectal,human,2021,PDT001292553.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Spain,rectal,human,2021,PDT001347361.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Spain,rectal,human,2021,PDT001347361.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Spain,urine,human,2021,PDT001347373.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Spain,urine,human,2021,PDT001347373.1,+,blaSCO-1,AMR,ALLELEP
+Enterobacter hormaechei,clinical,Argentina,urine,human,2021,PDT002389177.1,+,blaSCO-1,AMR,ALLELEX
+Klebsiella pneumoniae,clinical,USA,,human,2021,PDT002144262.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Ghana,urine,human,2022,PDT001518708.1,-,blaSCO-1,AMR,ALLELEX
+Klebsiella pneumoniae,clinical,Ghana,urine,human,2022,PDT001518728.1,+,blaSCO-1,AMR,ALLELEX
+Klebsiella pneumoniae,clinical,Kenya,urine,human,2022,PDT002127198.1,+,blaSCO-1,AMR,ALLELEP
+Proteus mirabilis,clinical,Brazil,urine,human,2022,PDT002412830.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Peru,urine,human,2022,PDT002669675.1,+,blaSCO-1,AMR,ALLELEP
+Pseudomonas aeruginosa,clinical,USA,wound,human,2022,PDT001367696.3,+,blaSCO-1,AMR,ALLELEP
+Pseudomonas aeruginosa,clinical,USA,wound,human,2022,PDT001367696.3,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Ghana,wound,human,2022,PDT001518863.1,+,blaSCO-1,AMR,ALLELEX
+Klebsiella pneumoniae,clinical,Libya,,human,2022,PDT002045100.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Libya,,human,2022,PDT002045104.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Libya,,human,2022,PDT002045105.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Libya,,human,2022,PDT002045107.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Libya,,human,2022,PDT002045111.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,Russia,,,2022,PDT002121546.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,France,,human,2022,PDT002317859.1,-,blaSCO-1,AMR,ALLELEP
+Pseudomonas aeruginosa,clinical,Norway,,human,2022,PDT002557094.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,South Africa,clinical material,human,2023,PDT002448517.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Spain,rectal,human,2023,PDT002507272.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Spain,rectal,human,2023,PDT002507274.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,USA,tissue,human,2023,PDT001828856.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,USA,tissue,human,2023,PDT001828856.1,+,blaSCO-1,AMR,ALLELEP
+Pseudomonas aeruginosa,clinical,Ukraine,wound,human,2023,PDT002423301.1,-,blaSCO-1,AMR,ALLELEP
+Pseudomonas putida,clinical,Slovenia,rectal,human,2024,PDT002645780.1,+,blaSCO-1,AMR,ALLELEP
+Pseudomonas putida,clinical,Slovenia,rectal,human,2024,PDT002645780.1,+,blaSCO-1,AMR,ALLELEP
+Pseudomonas putida,clinical,Slovenia,rectal,human,2024,PDT002646096.1,+,blaSCO-1,AMR,ALLELEP
+Pseudomonas putida,clinical,Slovenia,rectal,human,2024,PDT002646096.1,+,blaSCO-1,AMR,ALLELEP
+Pseudomonas aeruginosa,clinical,USA,urine,human,2024,PDT002527374.1,+,blaSCO-1,AMR,ALLELEP
+Pseudomonas aeruginosa,clinical,USA,urine,human,2024,PDT002527374.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Spain,clinical material,human,,PDT001864131.1,-,blaSCO-1,AMR,ALLELEX
+Klebsiella pneumoniae,clinical,South Africa,pus ,human,,PDT000088826.2,-,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,South Africa,sputum,human,,PDT000088843.2,-,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,South Africa,,human,,PDT000088828.2,-,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,,,,,PDT000176181.2,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,,,,,PDT000176181.2,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,,,,,PDT000176183.2,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,,,,,PDT000176183.2,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,,,,,PDT000250261.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,,,,,PDT000423540.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,,,,,PDT000423540.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,,,,,PDT000427324.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,,,,,PDT000427324.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,,,,,PDT000427339.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,,,,,PDT000427340.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,,,,,PDT000427340.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,,,,,PDT000427386.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,,,,,PDT000427392.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,,,,,PDT000427392.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,,,,,PDT000427831.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,,,,,PDT000427831.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,,,,,PDT000427833.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,,,,,PDT000427833.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,,,,,PDT000427835.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,,,,,PDT000427835.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,,,,,PDT000427836.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,,,,,PDT000427836.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,,,,,PDT000427837.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,,,,,PDT000427837.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,,,,,PDT000443731.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,,,,,PDT000443731.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,,,,,PDT000443743.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,,,,,PDT000443743.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,,,,,PDT000443751.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,,,,,PDT000443751.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,,,,,PDT000443758.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,,,,,PDT000443758.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,,,,,PDT000443759.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,,,,,PDT000443759.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,,,,,PDT000443761.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,,,,,PDT000443761.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,,,,,PDT000443764.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,,,,,PDT000443764.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,,,,,PDT000443766.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,,,,,PDT000443766.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,,,,,PDT000443769.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,,,,,PDT000443769.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,,,,,PDT000443779.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,,,,,PDT000443779.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,,,,,PDT000443780.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,,,,,PDT000443780.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,,,,,PDT000443784.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,,,,,PDT000443784.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,,,,,PDT000443789.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,,,,,PDT000443789.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,,,,,PDT000443903.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,,,,,PDT000443903.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,,,,,PDT000443935.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,,,,,PDT000443935.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,,,,,PDT000443942.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,,,,,PDT000443942.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,,,,,PDT000443944.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,,,,,PDT000443944.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,,,,,PDT000443945.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,,,,,PDT000443945.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,,,,,PDT000443947.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,,,,,PDT000443947.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,,,,,PDT000443950.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,,,,,PDT000443950.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,,,,,PDT000443952.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,,,,,PDT000443952.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,,,,,PDT000443953.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,,,,,PDT000443953.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,,,,,PDT000443955.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,,,,,PDT000443955.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,,,,,PDT000443956.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,,,,,PDT000443956.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,,,,,PDT000444040.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,,,,,PDT000444040.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,,,,,PDT000532615.1,-,blaSCO-1,AMR,ALLELEP
+Shigella flexneri,clinical,,,,,PDT000604979.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,,,,,PDT000656621.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,,,,,PDT000656621.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,,,,,PDT000656638.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,,,,,PDT000656638.1,+,blaSCO-1,AMR,ALLELEP
+Salmonella enterica,,,,,,PDT000684240.1,+,blaSCO-1,AMR,ALLELEP
+Salmonella enterica,,,,,,PDT000684240.1,+,blaSCO-1,AMR,ALLELEP
+Salmonella enterica,,,,,,PDT000684258.1,+,blaSCO-1,AMR,ALLELEP
+Salmonella enterica,,,,,,PDT000684258.1,+,blaSCO-1,AMR,ALLELEP
+Salmonella enterica,,,,,,PDT000684282.1,+,blaSCO-1,AMR,ALLELEP
+Salmonella enterica,,,,,,PDT000684282.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,,,,,PDT000921113.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,,,,,PDT000921113.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,,,,,PDT000921115.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,,,,,PDT000921115.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,,,,,PDT000921116.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,,,,,PDT000921116.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,,,,,PDT000921118.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,,,,,PDT000921118.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,,,,,PDT000921120.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,,,,,PDT000921120.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,,,,,PDT000921122.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,,,,,PDT000921122.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,,,,,PDT000921123.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,,,,,PDT000921123.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,,,,,PDT000921124.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,,,,,PDT000921124.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,,,,,PDT000921125.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,,,,,PDT000921125.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,,,,,PDT000921126.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,,,,,PDT000921126.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,,,,,PDT000989436.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,,,,,PDT000989436.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,,,,,PDT000989511.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,,,,,PDT000989511.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,,,,,PDT000989521.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,,,,,PDT000989521.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,,,,,PDT000989528.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,,,,,PDT000989528.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,,,,,PDT000989608.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,,,,,,PDT000989608.1,+,blaSCO-1,AMR,ALLELEP
+Escherichia coli,,,,,,PDT000993212.1,+,blaSCO-1,AMR,ALLELEP
+Escherichia coli,,,,,,PDT000993212.1,+,blaSCO-1,AMR,ALLELEP
+Escherichia coli,,,,,,PDT001010816.1,+,blaSCO-1,AMR,ALLELEP
+Escherichia coli,,,,,,PDT001010816.1,+,blaSCO-1,AMR,ALLELEP
+Salmonella enterica,,,,,,PDT001151929.1,+,blaSCO-1,AMR,ALLELEX
+Salmonella enterica,,,,,,PDT001153562.1,-,blaSCO-1,AMR,ALLELEX
+Salmonella enterica,,,,,,PDT001155651.1,+,blaSCO-1,AMR,ALLELEX
+Salmonella enterica,,,,,,PDT001155738.1,-,blaSCO-1,AMR,ALLELEX
+Salmonella enterica,,,,,,PDT001155777.1,+,blaSCO-1,AMR,ALLELEX
+Salmonella enterica,,,,,,PDT001155873.1,+,blaSCO-1,AMR,ALLELEX
+Salmonella enterica,,,,,,PDT001155997.1,-,blaSCO-1,AMR,ALLELEX
+Salmonella enterica,,,,,,PDT001156000.1,+,blaSCO-1,AMR,ALLELEX
+Salmonella enterica,,,,,,PDT001156043.1,-,blaSCO-1,AMR,ALLELEX
+Acinetobacter baumannii,,,,,,PDT001173640.1,-,blaSCO-1,AMR,ALLELEP
+Salmonella  Concord,,,,,,PDT001665660.1,+,blaSCO-1,AMR,ALLELEP
+Salmonella  Concord,,,,,,PDT001665660.1,+,blaSCO-1,AMR,ALLELEP
+Salmonella  Concord,,,,,,PDT001665665.1,+,blaSCO-1,AMR,ALLELEP
+Salmonella  Concord,,,,,,PDT001665665.1,+,blaSCO-1,AMR,ALLELEP
+Salmonella  Concord,,,,,,PDT001665667.1,+,blaSCO-1,AMR,ALLELEP
+Salmonella  Concord,,,,,,PDT001665667.1,+,blaSCO-1,AMR,ALLELEP
+Salmonella  Concord,,,,,,PDT001665669.1,+,blaSCO-1,AMR,ALLELEP
+Salmonella  Concord,,,,,,PDT001665669.1,+,blaSCO-1,AMR,ALLELEP
+Salmonella  Concord,,,,,,PDT001665674.1,+,blaSCO-1,AMR,ALLELEP
+Salmonella  Concord,,,,,,PDT001665674.1,+,blaSCO-1,AMR,ALLELEP
+Salmonella  Concord,,,,,,PDT001665693.1,+,blaSCO-1,AMR,ALLELEP
+Salmonella  Concord,,,,,,PDT001665693.1,+,blaSCO-1,AMR,ALLELEP
+Salmonella  Concord,,,,,,PDT001665701.1,+,blaSCO-1,AMR,ALLELEP
+Salmonella  Concord,,,,,,PDT001665701.1,+,blaSCO-1,AMR,ALLELEP
+Salmonella  Concord,,,,,,PDT001665707.1,+,blaSCO-1,AMR,ALLELEP
+Salmonella  Concord,,,,,,PDT001665707.1,+,blaSCO-1,AMR,ALLELEP
+Salmonella  Concord,,,,,,PDT001665711.1,+,blaSCO-1,AMR,ALLELEP
+Salmonella  Concord,,,,,,PDT001665711.1,+,blaSCO-1,AMR,ALLELEP
+Salmonella  Concord,,,,,,PDT001665724.1,+,blaSCO-1,AMR,ALLELEP
+Salmonella  Concord,,,,,,PDT001665724.1,+,blaSCO-1,AMR,ALLELEP
+Salmonella  Concord,,,,,,PDT001665736.1,+,blaSCO-1,AMR,ALLELEP
+Salmonella  Concord,,,,,,PDT001665736.1,+,blaSCO-1,AMR,ALLELEP
+Salmonella  Concord,,,,,,PDT001665747.1,+,blaSCO-1,AMR,ALLELEP
+Salmonella  Concord,,,,,,PDT001665747.1,+,blaSCO-1,AMR,ALLELEP
+Salmonella  Concord,,,,,,PDT001665749.1,+,blaSCO-1,AMR,ALLELEP
+Salmonella  Concord,,,,,,PDT001665749.1,+,blaSCO-1,AMR,ALLELEP
+Salmonella  Concord,,,,,,PDT001665751.1,+,blaSCO-1,AMR,ALLELEP
+Salmonella  Concord,,,,,,PDT001665751.1,+,blaSCO-1,AMR,ALLELEP
+Salmonella  Concord,,,,,,PDT001665754.1,+,blaSCO-1,AMR,ALLELEP
+Salmonella  Concord,,,,,,PDT001665754.1,+,blaSCO-1,AMR,ALLELEP
+Salmonella  Concord,,,,,,PDT001665754.1,+,blaSCO-1,AMR,ALLELEP
+Salmonella  Concord,,,,,,PDT001665755.1,+,blaSCO-1,AMR,ALLELEP
+Salmonella  Concord,,,,,,PDT001665755.1,+,blaSCO-1,AMR,ALLELEP
+Salmonella  Concord,,,,,,PDT001665760.1,+,blaSCO-1,AMR,ALLELEP
+Salmonella  Concord,,,,,,PDT001665760.1,+,blaSCO-1,AMR,ALLELEP
+Salmonella  Concord,,,,,,PDT001665761.1,+,blaSCO-1,AMR,ALLELEP
+Salmonella  Concord,,,,,,PDT001665761.1,+,blaSCO-1,AMR,ALLELEP
+Salmonella  Concord,,,,,,PDT001665770.1,+,blaSCO-1,AMR,ALLELEP
+Salmonella  Concord,,,,,,PDT001665770.1,+,blaSCO-1,AMR,ALLELEP
+Salmonella  Concord,,,,,,PDT001665780.1,+,blaSCO-1,AMR,ALLELEP
+Salmonella  Concord,,,,,,PDT001665780.1,+,blaSCO-1,AMR,ALLELEP
+Salmonella  Concord,,,,,,PDT001665788.1,+,blaSCO-1,AMR,ALLELEP
+Salmonella  Concord,,,,,,PDT001665788.1,+,blaSCO-1,AMR,ALLELEP
+Salmonella  Concord,,,,,,PDT001665789.1,+,blaSCO-1,AMR,ALLELEP
+Salmonella  Concord,,,,,,PDT001665789.1,+,blaSCO-1,AMR,ALLELEP
+Salmonella  Concord,,,,,,PDT001665795.1,+,blaSCO-1,AMR,ALLELEP
+Salmonella  Concord,,,,,,PDT001665795.1,+,blaSCO-1,AMR,ALLELEP
+Salmonella  Concord,,,,,,PDT001665797.1,+,blaSCO-1,AMR,ALLELEP
+Salmonella  Concord,,,,,,PDT001665797.1,+,blaSCO-1,AMR,ALLELEP
+Salmonella  Concord,,,,,,PDT001665798.1,+,blaSCO-1,AMR,ALLELEP
+Salmonella  Concord,,,,,,PDT001665798.1,+,blaSCO-1,AMR,ALLELEP
+Salmonella  Concord,,,,,,PDT001665802.1,+,blaSCO-1,AMR,ALLELEP
+Salmonella  Concord,,,,,,PDT001665802.1,+,blaSCO-1,AMR,ALLELEP
+Salmonella  Concord,,,,,,PDT001665807.1,+,blaSCO-1,AMR,ALLELEP
+Salmonella  Concord,,,,,,PDT001665807.1,+,blaSCO-1,AMR,ALLELEP
+Salmonella  Concord,,,,,,PDT001665809.1,+,blaSCO-1,AMR,ALLELEP
+Salmonella  Concord,,,,,,PDT001665809.1,+,blaSCO-1,AMR,ALLELEP
+Salmonella  Concord,,,,,,PDT001665811.1,+,blaSCO-1,AMR,ALLELEP
+Salmonella  Concord,,,,,,PDT001665811.1,+,blaSCO-1,AMR,ALLELEP
+Salmonella  Concord,,,,,,PDT001665813.1,+,blaSCO-1,AMR,ALLELEP
+Salmonella  Concord,,,,,,PDT001665813.1,+,blaSCO-1,AMR,ALLELEP
+Salmonella  Concord,,,,,,PDT001665815.1,+,blaSCO-1,AMR,ALLELEP
+Salmonella  Concord,,,,,,PDT001665815.1,+,blaSCO-1,AMR,ALLELEP
+Salmonella  Concord,,,,,,PDT001665816.1,+,blaSCO-1,AMR,ALLELEP
+Salmonella  Concord,,,,,,PDT001665816.1,+,blaSCO-1,AMR,ALLELEP
+Salmonella  Concord,,,,,,PDT001665828.1,+,blaSCO-1,AMR,ALLELEP
+Salmonella  Concord,,,,,,PDT001665828.1,+,blaSCO-1,AMR,ALLELEP
+Salmonella  Concord,,,,,,PDT001665829.1,+,blaSCO-1,AMR,ALLELEP
+Salmonella  Concord,,,,,,PDT001665829.1,+,blaSCO-1,AMR,ALLELEP
+Salmonella  Concord,,,,,,PDT001665830.1,+,blaSCO-1,AMR,ALLELEP
+Salmonella  Concord,,,,,,PDT001665830.1,+,blaSCO-1,AMR,ALLELEP
+Salmonella  Concord,,,,,,PDT001665833.1,+,blaSCO-1,AMR,ALLELEP
+Salmonella  Concord,,,,,,PDT001665833.1,+,blaSCO-1,AMR,ALLELEP
+Salmonella  Concord,,,,,,PDT001665834.1,+,blaSCO-1,AMR,ALLELEP
+Salmonella  Concord,,,,,,PDT001665834.1,+,blaSCO-1,AMR,ALLELEP
+Salmonella  Concord,,,,,,PDT001665835.1,+,blaSCO-1,AMR,ALLELEP
+Salmonella  Concord,,,,,,PDT001665835.1,+,blaSCO-1,AMR,ALLELEP
+Salmonella  Concord,,,,,,PDT001665839.1,+,blaSCO-1,AMR,ALLELEP
+Salmonella  Concord,,,,,,PDT001665839.1,+,blaSCO-1,AMR,ALLELEP
+Vibrio cholerae,,,,,,PDT001905940.1,-,blaSCO-1,AMR,ALLELEP
+Vibrio cholerae,,,,,,PDT001905940.1,+,blaSCO-1,AMR,ALLELEP
+Vibrio cholerae,,,,,,PDT001905954.1,-,blaSCO-1,AMR,ALLELEP
+Vibrio cholerae,,,,,,PDT001905954.1,+,blaSCO-1,AMR,ALLELEP
+Vibrio cholerae,,,,,,PDT001905955.1,-,blaSCO-1,AMR,ALLELEP
+Vibrio cholerae,,,,,,PDT001905955.1,+,blaSCO-1,AMR,ALLELEP
+Vibrio cholerae,,,,,,PDT001927731.1,-,blaSCO-1,AMR,ALLELEP
+Vibrio cholerae,,,,,,PDT001927731.1,+,blaSCO-1,AMR,ALLELEP
+Vibrio cholerae,,,,,,PDT001927736.1,-,blaSCO-1,AMR,ALLELEP
+Vibrio cholerae,,,,,,PDT001927736.1,+,blaSCO-1,AMR,ALLELEP
+Vibrio cholerae,,,,,,PDT001927766.1,-,blaSCO-1,AMR,ALLELEP
+Vibrio cholerae,,,,,,PDT001927766.1,+,blaSCO-1,AMR,ALLELEP
+Acinetobacter baumannii,clinical,Argentina,,human,,PDT002487912.1,+,blaSCO-1,AMR,ALLELEP
+Acinetobacter baumannii,clinical,Argentina,,human,,PDT002487913.1,-,blaSCO-1,AMR,ALLELEP
+Salmonella Isangi,clinical,South Africa,,human,,PDT002622818.1,-,blaSCO-1,AMR,ALLELEP
+Salmonella Isangi,clinical,South Africa,,human,,PDT002622819.1,-,blaSCO-1,AMR,ALLELEP
+Salmonella Isangi,clinical,South Africa,,human,,PDT002626896.1,+,blaSCO-1,AMR,ALLELEP
+Salmonella Isangi,clinical,South Africa,,human,,PDT002626899.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Nigeria,,human,,PDT002674876.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Nigeria,,human,,PDT002674888.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Nigeria,,human,,PDT002674901.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Nigeria,,human,,PDT002674912.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Nigeria,,human,,PDT002674927.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Nigeria,,human,,PDT002674939.1,+,blaSCO-1,AMR,ALLELEP
+Klebsiella pneumoniae,clinical,Nigeria,,human,,PDT002674957.1,-,blaSCO-1,AMR,ALLELEP
+Klebsiella quasipneumoniae,,,,,,PDT002678119.1,-,blaSCO-1,AMR,ALLELEP
