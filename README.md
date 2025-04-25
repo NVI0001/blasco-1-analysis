@@ -89,14 +89,14 @@ Project
 
 ```
 
-## How to Reproduce the Analysis
+## How to Run the Analysis
 
-1. Clone the repository: 
+**1. Clone the repository: **
 
    `git clone <https://github.com/NVI0001/blasco-1-analysis>`
    
 
-2. Install Dependencies
+**2. Install Dependencies**
 
 The analysis was performed in R (version 4.4.1) and relies on several R packages. Make sure they are installed before running the code. You can install them using the command below:
 
@@ -121,9 +121,9 @@ install.packages(c(
 
 ## Running the Analysis
 
-To reproduce the result
+To reproduce the results;
 
-1. Preferred Method:
+**Preferred Method:**
 
   Open Blasco-1-Analysis.Rmd in RStudio and click "Knit". This will create an HTML file that includes:
 
@@ -133,7 +133,7 @@ To reproduce the result
 
 All analysis steps are compiled into one readable document.
 
-2. Alternative Method:
+**Alternative Method:**
 
   Open the blasco_analysis.R script (located in the Code/blasco_analysis.R) and run the code manually.
   > Note that: This script performs the analysis but does not include result interpretation as found in the .Rmd report.
