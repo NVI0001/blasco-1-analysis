@@ -1,8 +1,8 @@
-# Analysis of the Underreported Antimicrobial Gene - *blaSCO-1*
+# Analysis of the Under-reported Antimicrobial Gene - *blaSCO-1*
 
 This repository contains the data, scripts, and analysis results for the manuscript:
 
-### **The Global Spread and Clinical Relevance of the Underreported *blaSCO-1* Resistance Gene**
+### **The Global Spread and Clinical Relevance of the Under-reported *blaSCO-1* Resistance Gene**
 
 
 
