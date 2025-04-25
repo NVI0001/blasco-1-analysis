@@ -47,17 +47,17 @@ This metadata was downloaded in CSV format.
 Here is the file tree structure of the repository:
 
 ```
-.
+Project
 ├── Blasco-1-Analysis.Rmd               # Top-level R Markdown file with integrated code and reporting
 ├── Code                                # Contains source scripts for analysis
 │   └── blasco_analysis.R               # R script with codes only 
 ├── Data                                # Stores both raw and processed data
-│   ├── blasco_cleaned_data.csv
-│   └── blasco_rawdata.csv
+│   ├── blasco_cleaned_data.csv         # Processed and standardized data
+│   └── blasco_rawdata.csv              # Original data
 ├── README.md                           # Top-level documentation with project overview and usage instructions
 ├── Results                             # All output files including plots, reports, and statistical summaries
-│   ├── Blasco-1-Analysis_files     
-│   │   └── figure-gfm                  # Contains auto-generated gfm figures
+│   ├── Blasco-1-Analysis_files         # Contains auto-generated gfm files from knitting
+│   │   └── figure-gfm                  # Contains auto-generated gfm figures corresponding to chunk code
 │   │       ├── unnamed-chunk-10-1.png  # Output from code chunk 10
 │   │       ├── unnamed-chunk-3-1.png   # Output from code chunk 3
 │   │       ├── unnamed-chunk-3-2.png   # -----
@@ -92,30 +92,58 @@ Here is the file tree structure of the repository:
 
 To run the full analysis, open `Blasco-1-Analysis.Rmd` in **RStudio** and knit it to **HTML**.
 
+
 ## Installation and Setup
 
 1. Clone the repository:  
    `git clone <https://github.com/NVI0001/blasco-1-analysis>`
    
-2. Install necessary R packages (if not already installed):
-To run the analysis, the following R packages are required:
-- `ggplot2`: For data visualization.
-- `dplyr`: For data manipulation.
-- `tidyr`: For data tidying.
-- `vegan`: For ecological analyses (e.g., distance matrices).
-- `knitr`: For generating reports from RMarkdown.
-- `readr`: For reading CSV files.
 
-You can install these packages by running the following in R:
-```r
-install.packages(c("ggplot2", "dplyr", "tidyr", "vegan", "knitr", "readr"))
+2. Dependencies
+
+The analysis relies on several R packages. Make sure they are installed before running the code. You can install them using the command below:
+
+```
+install.packages(c(
+  "stringr",      # String manipulation
+  "dplyr",        # Data wrangling
+  "tidyverse",    # Collection of core tidy data tools
+  "ggplot2",      # Plotting system
+  "forcats",      # Factor manipulation
+  "maps",         # Map data (e.g., world outlines)
+  "lme4",         # Mixed-effects models
+  "ggpubr",       # Publication-ready visualizations
+  "ggrepel",      # Non-overlapping text labels in ggplot
+  "emmeans",      # Estimated marginal means
+  "fs",           # File and directory handling
+  "multcomp"      # Multiple comparisons and post-hoc tests
+))
 
 ```
 
 
+## Running the Analysis
+
+Open `Blasco-1-Analysis.Rmd` in **RStudio** and click on "Knit" to generate an HTML report.
+
+The analysis will include:
+
+- Data visualizations
+- Statistical results
+
+
+## Results Summary
+
+- The *blaSCO-1* antimicrobial resistance gene was detected in a wide range of bacterial species and geographic locations,
+- The first detection was in the 1980s with a notable increase in reports after 2013. 
+- Over 68% of detections were from human clinical isolates, highlighting its clinical significance. 
+- *Klebsiella pneumoniae* was the first and most common bacterial species carrying the gene, followed by *E. coli*, *P. aeruginosa*, and *Salmonella enterica*. 
+- The results indicate that *blaSCO-1* is more widespread than previously reported and call for expanded One Health surveillance.
+
+
 ## Citation
 
-Please use the following DOI to cite this data and associated functions/analyses.  
+Please use the following DOI to cite this data and associated analyses/results.  
 
 [![DOI](https://zenodo.org/badge/924392893.svg)](https://doi.org/10.5281/zenodo.14957149)
 
