@@ -43,8 +43,9 @@ This metadata was downloaded in CSV format.
 
 
 
-## File Structure
-Here is the file tree structure of the repository:
+## Repository Structure
+
+Here is the file tree structure of this repository:
 
 ```
 Project
@@ -88,20 +89,16 @@ Project
 
 ```
 
-## Reproducing the Analysis
+## How to Reproduce the Analysis
 
-To run the full analysis, open `Blasco-1-Analysis.Rmd` in **RStudio** and knit it to **HTML**.
+1. Clone the repository: 
 
-
-## Installation and Setup
-
-1. Clone the repository:  
    `git clone <https://github.com/NVI0001/blasco-1-analysis>`
    
 
-2. Dependencies
+2. Install Dependencies
 
-The analysis relies on several R packages. Make sure they are installed before running the code. You can install them using the command below:
+The analysis was performed in R (version 4.4.1) and relies on several R packages. Make sure they are installed before running the code. You can install them using the command below:
 
 ```
 install.packages(c(
@@ -124,12 +121,22 @@ install.packages(c(
 
 ## Running the Analysis
 
-Open `Blasco-1-Analysis.Rmd` in **RStudio** and click on "Knit" to generate an HTML report.
+To reproduce the result
 
-The analysis will include:
+1. Preferred Method:
 
-- Data visualizations
-- Statistical results
+  Open Blasco-1-Analysis.Rmd in RStudio and click "Knit". This will create an HTML file that includes:
+
+  - Data visualizations
+  - Statistical results
+  - Key findings
+
+All analysis steps are compiled into one readable document.
+
+2. Alternative Method:
+
+  Open the blasco_analysis.R script (located in the Code/blasco_analysis.R) and run the code manually.
+  > Note that: This script performs the analysis but does not include result interpretation as found in the .Rmd report.
 
 
 ## Results Summary
