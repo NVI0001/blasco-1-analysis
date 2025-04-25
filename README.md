@@ -91,7 +91,7 @@ Project
 
 ## How to Run the Analysis
 
-**1. Clone the repository: **
+**1. Clone the repository:**
 
    `git clone <https://github.com/NVI0001/blasco-1-analysis>`
    
